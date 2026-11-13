@@ -70,7 +70,7 @@ Better handling of Reddit slang and emojis (🚀💎🙌), longer Reddit coverag
 ## 📚 Resources
 
 - [Erdős Institute project database](https://www.erdosinstitute.org/project-database)
-- [Google Drive / Colab folder](https://drive.google.com/drive/folders/1j1t_O_RLjhxA_K9bmiKgBba4uP45zc_H)
+- [Google Drive / Colab folder](https://drive.google.com/drive/folders/1k-L4CecNb0dnirBOeULYB3UJVARwDMwr)
 
 ## 🙏 Acknowledgments
 
